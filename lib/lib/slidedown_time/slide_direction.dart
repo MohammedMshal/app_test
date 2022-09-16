@@ -1,0 +1,5 @@
+
+enum SlideDirection {
+  Down,
+  Up,
+}
